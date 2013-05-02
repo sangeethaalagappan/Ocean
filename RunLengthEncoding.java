@@ -27,7 +27,7 @@ public class RunLengthEncoding {
    *  Define any variables associated with a RunLengthEncoding object here.
    *  These variables MUST be private.
    */
-    
+    import list.*;
     private int width;
     private int height;
     private int sharkstarvetime;
