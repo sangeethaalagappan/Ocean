@@ -9,6 +9,7 @@
 
 import java.awt.*;
 import java.util.*;
+import list.*;
 
 /**
  *  The Simulation class is a program that runs and animates a simulation of
