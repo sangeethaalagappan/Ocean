@@ -1,4 +1,3 @@
-
 /* DListNode.java */
 
 package list;
